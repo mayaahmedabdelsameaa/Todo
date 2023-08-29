@@ -1,0 +1,17 @@
+D:\iti\todo\TodoAPI\TodoAPI.Repository\bin\Debug\net6.0\TodoAPI.Repository.deps.json
+D:\iti\todo\TodoAPI\TodoAPI.Repository\bin\Debug\net6.0\TodoAPI.Repository.runtimeconfig.json
+D:\iti\todo\TodoAPI\TodoAPI.Repository\bin\Debug\net6.0\TodoAPI.Repository.dll
+D:\iti\todo\TodoAPI\TodoAPI.Repository\bin\Debug\net6.0\TodoAPI.Repository.pdb
+D:\iti\todo\TodoAPI\TodoAPI.Repository\bin\Debug\net6.0\TodoAPI.Domain.dll
+D:\iti\todo\TodoAPI\TodoAPI.Repository\bin\Debug\net6.0\TodoAPI.Domain.pdb
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.csproj.AssemblyReference.cache
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.AssemblyInfoInputs.cache
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.AssemblyInfo.cs
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.csproj.CoreCompileInputs.cache
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.csproj.CopyComplete
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.dll
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\refint\TodoAPI.Repository.dll
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.pdb
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\TodoAPI.Repository.genruntimeconfig.cache
+D:\iti\todo\TodoAPI\TodoAPI.Repository\obj\Debug\net6.0\ref\TodoAPI.Repository.dll

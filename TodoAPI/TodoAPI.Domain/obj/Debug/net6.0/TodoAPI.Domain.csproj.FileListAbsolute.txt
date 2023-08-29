@@ -1,0 +1,14 @@
+D:\iti\todo\TodoAPI\TodoAPI.Domain\bin\Debug\net6.0\TodoAPI.Domain.deps.json
+D:\iti\todo\TodoAPI\TodoAPI.Domain\bin\Debug\net6.0\TodoAPI.Domain.dll
+D:\iti\todo\TodoAPI\TodoAPI.Domain\bin\Debug\net6.0\TodoAPI.Domain.pdb
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.csproj.AssemblyReference.cache
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.AssemblyInfoInputs.cache
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.AssemblyInfo.cs
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.csproj.CoreCompileInputs.cache
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.dll
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\refint\TodoAPI.Domain.dll
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.pdb
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\ref\TodoAPI.Domain.dll
+D:\iti\todo\TodoAPI\TodoAPI.Domain\bin\Debug\net6.0\TodoAPI.Domain.runtimeconfig.json
+D:\iti\todo\TodoAPI\TodoAPI.Domain\obj\Debug\net6.0\TodoAPI.Domain.genruntimeconfig.cache
